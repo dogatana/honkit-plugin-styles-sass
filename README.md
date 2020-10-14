@@ -1,4 +1,4 @@
-# SASS Stylesheets for GitBook
+# SASS Stylesheets for Honkit
 
 This plugin makes it easy to use SASS custom stylesheets instead of CSS for your book.
 
