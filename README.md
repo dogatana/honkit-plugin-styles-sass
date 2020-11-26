@@ -25,7 +25,7 @@ This plugin aims to be used with Honkit.
 ## Changes from gitbook-plugin-styles-sass
 
 - update version of dependencies
-- outputStyle of node-sass is "expaned" by default
+- outputStyle of node-sass is `expaned` by default
 - outputStyle can be specified in book.json
 
 ```js
@@ -37,6 +37,7 @@ This plugin aims to be used with Honkit.
     }
 }
 ```
+- outputStyle must be one of `nested`, `expanded`, `compact` and `compressed`
 - remove DateTime string from the name of output
 - directory path is preserved as specified in book.json
 
