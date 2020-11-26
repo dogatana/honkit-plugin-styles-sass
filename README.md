@@ -6,7 +6,7 @@ Add it to your `book.json`, with some custom stylesheets:
 
 ```js
 {
-    "plugins": ["styles-sass"],
+    "plugins": ["@dogatana/styles-sass"],
     "styles": {
         "pdf": "./styles/pdf.sass"
     }
